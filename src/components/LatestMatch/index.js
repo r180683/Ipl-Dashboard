@@ -14,7 +14,6 @@ const LatestMatch = props => {
     firstInnings,
     secondInnings,
   } = latestMatchDetails
-  console.log(competingTeam)
   return (
     <div className="lmd-container">
       <div className="lm-td-container">
